@@ -23,6 +23,18 @@
       "guest_name": "Laurence Bertho-Bedel",
       "guest_photo_url": "https://a0.muscache.com/im/pictures/3800be72-19d3-45b5-bf7e-99d56dae2d7f.jpg",
       "estimated_earnings": 237.0
+    },
+    {
+      "id": 3,
+      "propertyId": 1,
+      "channel": "homeaway",
+      "checkin": "2019-03-27T00:00:00",
+      "checkin_time": "13:00:00",
+      "checkout": "2019-04-01T00:00:00",
+      "checkout_time": "12:00:00",
+      "guest_name": "Camilla Kampmann",
+      "guest_photo_url": "https://a0.muscache.com/im/users/35736040/profile_pic/1434245933/original.jpg",
+      "estimated_earnings": 157.4
     }
   ],
   "performance": {
