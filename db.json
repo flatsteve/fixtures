@@ -2,6 +2,7 @@
   "bookings": [
     {
       "id": 1,
+      "propertyId": 1,
       "channel": "airbnb",
       "checkin": "2019-03-26T00:00:00",
       "checkin_time": "16:00:00",
@@ -13,6 +14,7 @@
     },
     {
       "id": 2,
+      "propertyId": 2,
       "channel": "booking",
       "checkin": "2019-02-17T00:00:00",
       "checkin_time": "17:00:00",
@@ -24,7 +26,13 @@
     }
   ],
   "performance": {
-    "last_month_earnings": 757.7,
-    "total_earnings": 21523
+    "1": {
+      "last_month_earnings": 757.7,
+      "total_earnings": 21523
+    },
+    "2": {
+      "last_month_earnings": 357.7,
+      "total_earnings": 1623
+    }
   }
 }
