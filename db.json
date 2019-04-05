@@ -1,0 +1,30 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "channel": "airbnb",
+      "checkin": "2019-03-26T00:00:00",
+      "checkin_time": "16:00:00",
+      "checkout": "2019-03-31T00:00:00",
+      "checkout_time": "11:00:00",
+      "guest_name": "Jonathan Nairn",
+      "guest_photo_url": "https://a0.muscache.com/im/pictures/66c9d930-2c25-44f5-b584-9154df1a6763.jpg",
+      "estimated_earnings": 757.7
+    },
+    {
+      "id": 2,
+      "channel": "booking",
+      "checkin": "2019-02-17T00:00:00",
+      "checkin_time": "17:00:00",
+      "checkout": "2019-02-20T00:00:00",
+      "checkout_time": "11:00:00",
+      "guest_name": "Laurence Bertho-Bedel",
+      "guest_photo_url": "https://a0.muscache.com/im/pictures/3800be72-19d3-45b5-bf7e-99d56dae2d7f.jpg",
+      "estimated_earnings": 237.0
+    }
+  ],
+  "performance": {
+    "last_month_earnings": 757.7,
+    "total_earnings": 21523
+  }
+}
