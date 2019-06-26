@@ -39,7 +39,7 @@
   ],
   "properties": {
     "id": 1,
-    "address: "101 Old Street"
+    "address": "101 Old Street"
   },
   "performance": {
     "1": {
