@@ -43,10 +43,12 @@
   },
   "performance": {
     "1": {
+      id: 1,
       "last_month_earnings": 757.7,
       "total_earnings": 21523
     },
     "2": {
+      "id": 2,
       "last_month_earnings": 357.7,
       "total_earnings": 1623
     }
