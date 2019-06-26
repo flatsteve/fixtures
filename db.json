@@ -37,10 +37,12 @@
       "estimated_earnings": 157.4
     }
   ],
-  "properties": {
-    "id": 1,
-    "address": "101 Old Street"
-  },
+  "properties": [
+    {
+      "id": 1,
+      "address": "101 Old Street"
+    }
+  ],
   "performance": {
     "1": {
       "id": 1,
